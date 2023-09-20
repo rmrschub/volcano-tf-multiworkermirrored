@@ -1,0 +1,3 @@
+[submodule "mo"]
+	path = third_party/bin
+	url = git@github.com:tests-always-included/mo.git
